@@ -1,6 +1,6 @@
 #  Vite Course
 
-[Vitejs Complete Course - Zero to Hero | Deploying to Platforms](https://youtu.be/Wn7N4AW-gHU?list=PLR8IIoI7xe3wtWbkdPxa7J4djxXztGhZM)
+[Vitejs Complete Course - Zero to Hero | Deploying to Platforms](https://youtu.be/Wn7N4AW-gHU)
 
 ## Examples
 
@@ -9,4 +9,8 @@
 2. Using templates, Tailwind Integration
    - [Vanilla Vite](./vanilla-vite)
    - [React Vite](./react-vite)
+3. Deployments
+   - Github [41:36](https://youtu.be/Wn7N4AW-gHU?t=2496)
+   - Netlify [51:37](https://youtu.be/Wn7N4AW-gHU?t=3097)
+   - Vercel [57:27](https://youtu.be/Wn7N4AW-gHU?t=3447)
 
