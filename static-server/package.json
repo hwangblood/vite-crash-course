@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "vite dev",
+    "dev": "VITE_SOME_KEY=key-from-command-line vite dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

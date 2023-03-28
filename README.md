@@ -4,8 +4,9 @@
 
 ## Examples
 
-1. [Static Server](./static-server)
+1. [Static Server](./static-server) 
+   - [Env Variables and Modes | Vite](https://v3.vitejs.dev/guide/env-and-mode.html)
 2. Using templates, Tailwind Integration
-   1. [Vanilla Vite](./vanilla-vite)
-   2. [React Vite](./react-vite)
+   - [Vanilla Vite](./vanilla-vite)
+   - [React Vite](./react-vite)
 
