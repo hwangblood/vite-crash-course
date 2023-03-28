@@ -5,7 +5,7 @@
 ## Examples
 
 1. [Static Server](./static-server)
-2. Using templates
+2. Using templates, Tailwind Integration
    1. [Vanilla Vite](./vanilla-vite)
    2. [React Vite](./react-vite)
 
