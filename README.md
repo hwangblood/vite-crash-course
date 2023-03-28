@@ -4,6 +4,8 @@
 
 The course covers various topics, including creating a static server, using templates, integrating Tailwind, using environment variables, deploying to GitHub, Netlify, and Vercel, and configuring Vite. It also discusses the features of Vite, including hot module replacement and static asset handling.
 
+The latest version of Vite is 4.2.1 when building this course.
+
 ## Examples
 
 1. Creating Static Server  [5:27](https://www.youtube.com/watch?v=Wn7N4AW-gHU&t=1087s)
